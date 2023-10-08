@@ -1,0 +1,5 @@
+[submodule "varelll.github.io"]
+	url = https://varelll.github.io./
+git add .gitmodules
+git commit -m "Fix submodule URL"
+git push origin master (or your branch name)
